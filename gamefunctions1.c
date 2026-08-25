@@ -1,6 +1,4 @@
 //
-// Created by d2-sakaria on 30/04/2024.
-//
 
 #include "gamefunctions1.h"
 #include <stdio.h>
