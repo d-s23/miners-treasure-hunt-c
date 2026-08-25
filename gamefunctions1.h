@@ -1,6 +1,4 @@
 //
-// Created by d2-sakaria on 30/04/2024.
-//
 
 #ifndef MAIN_C_GAMEFUNCTIONS1_H
 #define MAIN_C_GAMEFUNCTIONS1_H
