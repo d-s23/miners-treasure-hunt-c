@@ -1,6 +1,6 @@
 # Miners' Treasure Hunt - C Based Text Game
 
-A console-based mining adventure game developed in **C**, featuring exploration, resource collection, inventory management and pickaxe progression.
+A text-based mining adventure game developed in **C**, featuring exploration, resource collection, inventory management and pickaxe progression.
 
 The objective is to explore a 2D underground environment, collect resources, upgrade the pickaxe and ultimately find and sell a diamond to complete the game.
 
@@ -87,6 +87,10 @@ The game is completed when the player mines a diamond and returns to the shop to
 ## Development & Testing
 
 The project was developed iteratively, with testing covering mining movement, coordinate tracking, pickaxe health, shop transactions, inventory updates, difficulty selection and game completion.
+
+
+<img width="276" height="594" alt="image" src="https://github.com/user-attachments/assets/63018dd0-38d0-4cb0-b19f-69e14462714d" />
+
 
 ---
 
